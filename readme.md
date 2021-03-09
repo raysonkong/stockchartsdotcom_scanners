@@ -1,4 +1,5 @@
 My Scanners for Uptrend stocks
+Use these scanners in StockCharts.com's technical scan workbench
 
 1. uptrend
 Scan for stocks in uptrend based on SCTR and 200 dMA
